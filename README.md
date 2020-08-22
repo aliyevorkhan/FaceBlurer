@@ -128,4 +128,8 @@ num_of_faces(image)
 ![Result Image 2](assets/result_window_2.png)
 
 *TODO:*
+<<<<<<< HEAD
 - [ ] show gif result of live blurring
+=======
+- [ ] show gif result of live blurring
+>>>>>>> 2ea114457eefc4cffecb4516a0788895bc076407
