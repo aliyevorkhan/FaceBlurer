@@ -124,8 +124,8 @@ num_of_faces(image)
 
 ## Outputs
 
-![Result Image 1](output/result_window.png)
-![Result Image 2](output/result_window_2.png)
+![Result Image 1](assets/result_window.png)
+![Result Image 2](assets/result_window_2.png)
 
 *TODO:*
--[ ] show gif result of live blurring
+- [ ] show gif result of live blurring
